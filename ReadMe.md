@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hi, I'm Mehar.<br>I build scalable software to solve systemic inefficiencies in education and media.<br><br>- 🏆 Winner: Hack the North 2025 (Project: Tarazoo)<br>- 🚀 Founder: Tutor-Tron (Deployed in Halton District School Board)<br>- 🛠️ Core Stack: Python (AI/ML), TypeScript (Fullstack), C++ (Firmware)<br><br>Featured Engineering Work:<br>- **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Adaptive testing algorithms used by 500+ students.<br>- **[PropagandAI](https://github.com/MeharPro/PropagandAI)**: NLP engine for detecting media bias (Python/Spacy).<br>- **[Edgar AI](https://github.com/MeharPro/Edgar-AI)**: VS Code extension for developer productivity (TypeScript).
+### Hi, I'm Mehar.
+I love designing full-stack applications that actual humans will use.
+
+- 🏆 **Winner:** Hack the North 2025 (Project: Tarazoo)
+- 🚀 **Founder:** Tutor-Tron (Deployed in Halton District School Board)
+- 🛠️ **Core Stack:** Python (AI/ML), TypeScript (Fullstack), C++ (Firmware)
+
+**Featured Engineering Work:**
+- **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Adaptive testing algorithms used by 500+ students.
+- **[PropagandAI](https://github.com/MeharPro/PropagandAI)**: NLP engine for detecting media bias (Python/Spacy).
+- **[Edgar AI](https://github.com/MeharPro/Edgar-AI)**: VS Code extension for developer productivity (TypeScript).
 
 
 ## 🌐 Socials:
