@@ -6,7 +6,7 @@ I love designing full-stack applications that actual humans will use.
 - 🛠️ **Core Stack:** Python (AI/ML), TypeScript (Fullstack), C++ (Firmware)
 
 **Featured Engineering Work:**
-- **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Adaptive testing algorithms used by 500+ students.
+- **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Equitable AI-based learning plafrom used by 500+ students.
 - **[PropagandAI](https://github.com/MeharPro/PropagandAI)**: LLM trained on Propaganda to raise awareness about misinformation in AI responses. 
 - **[Edgar AI](https://github.com/MeharPro/Edgar-AI)**: VS Code extension for developer productivity (TypeScript).
 
