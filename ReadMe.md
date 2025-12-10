@@ -7,7 +7,7 @@ I love designing full-stack applications that actual humans will use.
 
 **Featured Engineering Work:**
 - **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Adaptive testing algorithms used by 500+ students.
-- **[PropagandAI](https://github.com/MeharPro/PropagandAI)**: NLP engine for detecting media bias (Python/Spacy).
+- **[PropagandAI](https://github.com/MeharPro/PropagandAI)**: LLM trained on Propaganda to raise awareness about misinformation in AI responses. 
 - **[Edgar AI](https://github.com/MeharPro/Edgar-AI)**: VS Code extension for developer productivity (TypeScript).
 
 
