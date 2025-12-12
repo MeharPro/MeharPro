@@ -4,7 +4,7 @@ I love designing full-stack applications that actual humans will use.
 - 🏆 **Winner:** Hack the North 2025 (Project: Tarazoo)
 - 🚀 **Founder:** Tutor-Tron (Deployed in Halton District School Board)
 - 🛠️ **Core Stack:** Python (AI/ML), TypeScript (Fullstack), C++ (Firmware)
-- 🖥️ **Professional Experience:** @ Formative Pharma | Python Automations, DAX, PowerBI Dashboard
+- 🖥️ **Professional Experience:** @ Formative Pharma Inc. | Python Automations, DAX, PowerBI Dashboard
   
   **[VIEW MY DEVPOST](https://devpost.com/meharpro)**
 
