@@ -4,7 +4,7 @@ I love designing full-stack applications that actual humans will use.
 - 🏆 **Winner:** Hack the North 2025 (Project: Tarazoo)
 - 🚀 **Founder:** Tutor-Tron (Deployed in Halton District School Board)
 - 🛠️ **Core Stack:** Python (AI/ML), TypeScript (Fullstack), C++ (Firmware)
-- 
+  
 **[VIEW DEVPOST](https://devpost.com/meharpro)**
 **Featured Engineering Work:**
 - **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Equitable AI-based learning plafrom used by 500+ students.
