@@ -6,7 +6,7 @@ I love designing full-stack applications that actual humans will use.
 - 🛠️ **Core Stack:** Python (AI/ML), TypeScript (Fullstack), C++ (Firmware)
 - 🖥️ **Professional Experience:** @ Formative Pharma Inc. | Python Automations, DAX, PowerBI Dashboard
   
-  **[VIEW MY PERSONAL WEBSITE](https://meharkhanna.vercel.app/)** and **[VIEW MY DEVPOST](https://devpost.com/meharpro)**
+  **[VIEW MY PERSONAL WEBSITE](https://meharkhanna.vercel.app/)** and **[MY DEVPOST](https://devpost.com/meharpro)**
 
 **Featured Software Engineering Work:**
 - **[Tutor-Tron](https://github.com/MeharPro/Tutor-Tron)**: Equitable AI-based learning plafrom used by 500+ students.
